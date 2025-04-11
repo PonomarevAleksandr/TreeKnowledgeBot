@@ -56,5 +56,5 @@
 
 1. **Клонировать репозиторий**:
    ```bash
-   git clone https://github.com/PonomarevAleksandr/knowledge_bot.git
-   cd knowledge-base-bot
+   git clone https://github.com/PonomarevAleksandr/TreeKnowledgeBot.git
+   cd TreeKnowledgeBot
